@@ -18,11 +18,3 @@ github_username:  j0ni
 # Build settings
 markdown: kramdown
 
-gems:
-  - jekyll-bootstrap-sass
-
-bootstrap:
-  assets: true
-
-sass:
-  style: compressed
