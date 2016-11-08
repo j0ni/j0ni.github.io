@@ -9,7 +9,7 @@
 title: j0ni.ca
 email: j@lollyshouse.ca
 description: > # this means to ignore newlines until "baseurl:"
-  Shit, this text shows up when you drop links in slack :(
+  Shit, this text shows up when you drop links
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://j0ni.ca" # the base hostname & protocol for your site
 twitter_username: j0ni
