@@ -10,8 +10,6 @@ title: The Death Collection
 
 <ul>
   {% for page in site.death %}
-  {% unless page.title == "The Death Collection" %}
   <li><a href="{{ page.url }}">{{ page.title }}</a></li>
-  {% endunless %}
   {% endfor %}
 </ul>
