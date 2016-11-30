@@ -1,17 +1,11 @@
 ---
 ---
 body {
-  font: 14px/20px 'AurulentSansRegular', Arial, sans-serif;
-
-  b {
-    font: 14px/20px 'AurulentSansBold', Arial, sans-serif;
-  }
-
-  address {
-    font: 16px/22px 'AurulentSansRegular', Arial, sans-serif;
-  }
-
-  h3 {
-    font: 21px/26px 'AurulentSansRegular', Arial, sans-serif;
-  }
+  /* font: 14px/20px sans-serif, 'AurulentSansRegular', Arial;*/
+  /* font: 16px/22px 'Gilda Display', serif; */
+  font-family: 'Sura', serif;
+  /* font: 16px/22px 'Slabo', serif; */
+  /* font: 16px/22px 'Asar', serif; */
+  text-align: justify;
+  font-size: 16px;
 }
