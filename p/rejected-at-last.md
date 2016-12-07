@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Rejected At Last!
-date: 2016-11-07
+title: "Rejected At Last!"
+date: "2016-11-07"
 ---
 
 Yesterday, on my way to San Francisco to meet with my co-workers and spend a
