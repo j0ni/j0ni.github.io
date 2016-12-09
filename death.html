@@ -2,14 +2,19 @@
 layout: simple
 title: The Death Collection
 ---
-<h1>The Death Collection</h1>
-<p>
-  My mother died in early 2012. I wrote some things during that time. This is
-  where they live.
-</p>
+<div class="row">
+  <div class="col-md-1"></div>
+  <div class="col-md-7">
+    <h1>The Death Collection</h1>
+    <p>
+      My mother died in early 2012. I wrote some things during that time. This is
+      where they live.
+    </p>
 
-<ul>
-  {% for page in site.death %}
-  <li><a href="{{ page.url }}">{{ page.title }}</a></li>
-  {% endfor %}
-</ul>
+    <ul class="list-unstyled">
+      {% for page in site.death %}
+      <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
